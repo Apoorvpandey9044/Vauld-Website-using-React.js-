@@ -21,7 +21,7 @@ export default function Content() {
             </div>
             <div className='box-right'>
               <div className='box-right-initial-heading'>
-                Create Your AIPs
+                Create Your AIP
               </div>
               <div className='box-right-heading'>
                 <div className='box-right-heading-initial'>
